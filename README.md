@@ -1,37 +1,29 @@
-## Hello! 👋
- 
-I am Graziella, a data scientist with a background in Bioinformatics  
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
+## Hey there 👋
+ 
+Welcome to my GitHub! Here you will find some of my personal projects on data analysis and data science
+
+- 📖 I am Graziella, a data scientist from Brazil with a background in Bioinformatics and life sciences 
 - 🔭 I’m currently working on LLM applications
 - 🌱 I’m currently learning LangChain and German
-- 📫 How to reach me: 
-- 😄 Pronouns: her/she
-- ⚡ Fun fact: I will soon start working on my free time to the NGO "The Undivide Project". There, I will help them by developing impactful data visualizations 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I will soon begin dedicating my free time to "The Undivide Project," an NGO in need of assistance with data visualizations for their projects
 
+#### :hammer_and_wrench: Languages and tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VS" alt="VS" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikitlearn" alt="Scikitlearn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit " width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+</div>
 
-
-![Tableau]({https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white})
-
-![Pytorch]({https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white})
-
-
-https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-
-https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
-
-
-https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white
-
-
-https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
-
-
-https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
-
-
-https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
-
-
-https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
