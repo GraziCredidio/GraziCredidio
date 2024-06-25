@@ -4,9 +4,8 @@
  
 Welcome to my GitHub! Here you will find some of my personal projects on data analysis and data science
 
-- 📖 I am Graziella, a data scientist from Brazil with a background in Bioinformatics and life sciences 
-- 🔭 I’m currently working on LLM applications
-- 🌱 I’m currently learning LangChain and German
+- 📖 I am Graziella, a data scientist from Brazil with a background in Bioinformatics and Life Sciences 
+- 🌱 I’m currently learning LLM applications with LangChain and German
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I will soon begin dedicating my free time to "The Undivide Project," an NGO in need of assistance with data visualizations for their projects
 
