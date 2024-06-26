@@ -4,9 +4,10 @@
  
 Welcome to my GitHub! Here you will find some of my personal projects on data analysis and data science.
 
-- 📖 I’m Graziella, a data scientist with a background in Bioinformatics and Life Sciences
-- 📌 A Brazilian living in Germany, and studying German
-- 🌱 I’m currently learning LLM applications with LangChain and function calling
+- 🧬 Background in Bioinformatics and Life Sciences
+- 🗺️ Br → DE
+- 🧩 Studying German
+- 🌱 Currently learning LLM applications with LangChain and function calling
 - 😄 Pronouns: she/her
 - ⚡ Fun facts:
     - I lived for almost two years in Australia 🦘 
