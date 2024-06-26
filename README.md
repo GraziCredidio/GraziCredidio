@@ -10,8 +10,8 @@ Welcome to my GitHub! Here you will find some of my personal projects on data an
 - 🌱 Currently learning LLM applications with LangChain and function calling
 - 😄 Pronouns: she/her
 - ⚡ Fun facts:
-    - I lived for almost two years in Australia 🦘 
-    - I will soon dedicate my free time to an NGO ("The Undivide Project") in need of assistance with data visualizations for their projects 📊
+    - I lived for almost two years in Australia
+    - I will soon dedicate my free time to an NGO ("The Undivide Project") in need of assistance with data visualizations for their projects
 
 
 
