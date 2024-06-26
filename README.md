@@ -5,7 +5,7 @@
 Welcome to my GitHub! Here you will find some of my personal projects on data analysis and data science.
 
 - 🧬 Background in Bioinformatics and Life Sciences
-- 🗺️ Br → DE
+- 🌍 BR → DE
 - 🧩 Studying German
 - 🌱 Currently learning LLM applications with LangChain and function calling
 - 😄 Pronouns: she/her
