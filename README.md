@@ -11,7 +11,7 @@ Welcome to my GitHub! Here you will find some of my personal projects on data an
 - 😄 Pronouns: she/her
 - ⚡ Fun facts:
     - I lived for almost two years in Australia
-    - I am currently volunteering at an NGO ("The Undivide Project") by providing assistance with my data skills 
+    - I am currently volunteering at "The Undivide Project", an NGO from the US, by providing assistance with my data skills 
 
 
 
